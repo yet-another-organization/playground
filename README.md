@@ -1,3 +1,3 @@
 # playground
 
-dev/feature1
+dev/awesome-feature1
